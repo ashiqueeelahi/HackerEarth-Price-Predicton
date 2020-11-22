@@ -1,5 +1,5 @@
 
-In this project I used different regression algorithms to do regression for finding out burn rate of employees. I used Kaggles free GPUs and Hackerearth Datasets in this project. 
+In this project I used different regression algorithms to do regression to predict selling price. I used Kaggles free GPUs and Hackerearth Datasets in this project. 
 
 <h2>The Data</h2>
 
